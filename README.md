@@ -16,3 +16,4 @@ When you are ready to run test -npm run test
 
 ##License This project is licensed under the MIT License - see the LICENSE.md file for details
 
+[![Build Status](https://travis-ci.com/ashabrai/03-async-and-callbacks.svg?branch=master)](https://travis-ci.com/ashabrai/03-async-and-callbacks)
